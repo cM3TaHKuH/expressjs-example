@@ -1,0 +1,16 @@
+h1{
+    color: greenyellow;
+    text-align: center;
+    margin: 0 auto;
+}
+
+body{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: column-reverse;
+    background: linear-gradient(337deg, rgba(156,131,18,1) 0%, rgba(43,88,14,1) 51%, rgba(37,119,135,1) 100%);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
